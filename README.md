@@ -2,12 +2,11 @@
 
 ### Prerequisites
 
-Have minikube, docker and kubectl installed.
-Working directory should be the root folder of this project.
+* Have minikube, docker and kubectl installed.
+* Working directory should be the root folder of this project.
 
 
 ### Steps
 
-chmod +x run.sh
-
-./run.sh
+1. chmod +x run.sh
+2. ./run.sh
