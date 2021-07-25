@@ -1,6 +1,6 @@
 # MLOps Challenge - Technical assignment
 
-## Steps
+### Steps
 
 eval $(minikube docker-env)
 
