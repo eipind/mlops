@@ -1,14 +1,12 @@
 # MLOps Challenge - Technical assignment
 
-### Pre-steps (?)
+### Prerequisites
 
-Install minikube, docker and kubectl
+Have minikube, docker and kubectl installed
+Working directory should be the root folder of this project
+
 
 ### Steps
 
-
-eval $(minikube docker-env)
-
-docker build --force-rm -t mlops_task .
-
-kubectl apply -f deployment.yaml
+chmod +x run.sh
+./run.sh
